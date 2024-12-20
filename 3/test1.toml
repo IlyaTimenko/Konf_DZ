@@ -1,8 +1,0 @@
-# Конфигурация веб-сервера
-server_port = 8080
-server_host = "localhost"
-allowed_ips = (192.168.1.1, 192.168.1.2)
-
-# Использование констант
-@server_host
-@allowed_ips

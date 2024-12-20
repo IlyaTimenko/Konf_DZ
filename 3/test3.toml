@@ -1,9 +1,0 @@
-# Конфигурация приложения
-app_name = "MyApp"
-app_version = 1.0
-supported_languages = (en, ru, es)
-
-
-# Использование констант
-@app_name
-@app_version
