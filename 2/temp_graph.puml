@@ -1,0 +1,5 @@
+@startuml
+"curl" --> "libc6"
+"curl" --> "libcurl4"
+"curl" --> "zlib1g"
+@enduml
